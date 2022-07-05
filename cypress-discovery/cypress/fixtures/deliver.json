@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Sidney Moreira",
+            "cpf": "00000014141",
+            "email": "teste_buger@gmail.com",
+            "whatsapp": 11999999999,
+            "address": {
+                "postalcode": "14801013",
+                "street": "Rua Samuel Brasil Bueno",
+                "number": 445,
+                "details": "Bloco 3 - Apto 204",
+                "district": "Solidariedade",
+                "city_state": "Araraquara/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Kaka Curti",
+            "cpf": "000000141ab",
+            "email": "curtikaka@gmail.com",
+            "whatsapp": 11999999999,
+            "address": {
+                "postalcode": "14801013",
+                "street": "Rua Samuel Brasil Bueno",
+                "number": 445,
+                "details": "Bloco 3 - Apto 204",
+                "district": "Solidariedade",
+                "city_state": "Araraquara/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Sidney Moreira",
+            "cpf": "00000014141",
+            "email": "teste_buger.com.br",
+            "whatsapp": 11999999999,
+            "address": {
+                "postalcode": "14801013",
+                "street": "Rua Samuel Brasil Bueno",
+                "number": 445,
+                "details": "Bloco 3 - Apto 204",
+                "district": "Solidariedade",
+                "city_state": "Araraquara/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}

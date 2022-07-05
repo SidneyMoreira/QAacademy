@@ -1,0 +1,15 @@
+before(function(){
+        cy.log('Tudo aqui é executado uma unica vez antes de TODOS os casos de teste')
+    })
+
+    beforeEach(function(){
+        cy.log('Tudo aqui é executado sempre ANTES de cada casos de teste')
+    })
+
+    after(function(){
+        cy.log('Tudo aqui é executado uma unica vez depois de TODOS os casos de teste')
+    })
+
+    afterEach(function(){
+        cy.log('Tudo aqui é executado sempre Depois de cada casos de teste')
+    })
